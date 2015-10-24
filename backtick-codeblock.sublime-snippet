@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+``` ${1:lang} ${2:title} ${3:url} ${4:link_text}
+	<!-- code -->
+```
+]]></content>
+	<tabTrigger>octo_bcb</tabTrigger>
+	<description>Octopress - Backtick Code Blocks</description>
+</snippet>

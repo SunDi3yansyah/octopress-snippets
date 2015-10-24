@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+{% pullquote ${1:left right} %}
+	<!-- word -->
+	{" <!-- word --> "}
+	<!-- word -->
+{% endpullquote %}
+]]></content>
+	<tabTrigger>octo_pq</tabTrigger>
+	<description>Octopress - Pullquote</description>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+{% blockquote ${1:author} ${2:link} ${3:title} %}
+	<!-- word -->
+{% endblockquote %}
+]]></content>
+	<tabTrigger>octo_bq</tabTrigger>
+	<description>Octopress - Blockquote</description>
+</snippet>

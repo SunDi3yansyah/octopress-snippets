@@ -1,0 +1,9 @@
+Octopress Snippets 0.0.1 Changelog:
+
+New features:
+
+ - This first version snippets on octoress.
+
+Bug Fix:
+
+ - Nothing bug.

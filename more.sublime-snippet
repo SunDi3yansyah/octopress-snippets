@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<!-- more -->
+]]></content>
+	<tabTrigger>octo_more</tabTrigger>
+	<description>Octopress - More</description>
+</snippet>

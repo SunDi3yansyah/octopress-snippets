@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+{% raw %}{% include ${1:file} %}{% endraw %}
+]]></content>
+	<tabTrigger>octo_ip</tabTrigger>
+	<description>Octopress - Include Partial</description>
+</snippet>

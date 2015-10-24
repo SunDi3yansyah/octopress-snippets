@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+{% puts %}
+{{ ${1:liquid_variable} }}
+{% endputs %}
+<!-- more example http://octopress.org/docs/plugins/puts/ -->
+]]></content>
+	<tabTrigger>octo_puts</tabTrigger>
+	<description>Octopress - Puts</description>
+</snippet>

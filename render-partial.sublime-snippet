@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+{% render_partial ${1:path}.markdown %}
+]]></content>
+	<tabTrigger>octo_rp</tabTrigger>
+	<description>Octopress - Render Partial</description>
+</snippet>
